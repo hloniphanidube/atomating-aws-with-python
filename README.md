@@ -1,3 +1,4 @@
 # atomating-aws-with-python
 
-Repository for automating AWS with python   
+Repository for automating AWS with python 
+Sansukwi syncs local directory with an S3 bucket and optionally configure Route 53 and Cloudfront  
