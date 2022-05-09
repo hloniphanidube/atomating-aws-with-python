@@ -7,3 +7,6 @@ Sansukwi syncs local directory with an S3 bucket and optionally configure Route 
 Sanzukwi has the following features
 -list buckets
 -list contents of bucket
+-create and setup
+-sync directory
+
